@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Registration App</title>
+    <title>Welcome to My Resgistration App</title>
 </head>
 <body>
     <h2>Welcome to Registration App</h2>
